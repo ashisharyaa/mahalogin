@@ -36,6 +36,8 @@ pipeline{
                     ssh  root@172.31.88.163 /opt/tomcat9/bin/startup.sh
                     
                     """
+                    
+                    }
        
               
               }
