@@ -1,0 +1,16 @@
+pipeline{
+  agaent any
+  stages{
+      stage("Git Checkout"){
+          steps{
+          
+          
+          
+          
+            }
+  
+  
+        }
+  
+    }
+}
